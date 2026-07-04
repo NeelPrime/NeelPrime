@@ -26,7 +26,7 @@ AI code quality middleware — 97% token reduction, smart model routing, quality
 
 Works with Claude Code, Codex, Cursor, Copilot, Aider & more.
 
-`pip install arbiterx`
+`pip install arbiterx-gate`
 
 </td>
 <td width="50%">
